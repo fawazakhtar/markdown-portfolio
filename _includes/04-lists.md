@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- stuff i like
+  - cheese
+  - pizza
+  - ice cream
+  - burgers
